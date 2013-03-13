@@ -1,0 +1,10 @@
+recordRepo:
+  workerStateDir: worker
+  recordRepoUrl: git@github.com:sugoi/heptacat-example-record.git
+  taskListDir: task
+  resultDir: result
+subjectRepo:
+  startUpScript: start
+  outputDir: output
+  subjectRepoUrl: git@github.com:sugoi/heptacat-example-subject.git
+
