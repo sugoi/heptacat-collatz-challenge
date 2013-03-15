@@ -1,3 +1,4 @@
+workerNameInCharge: ''
 recordRepo:
   workerStateDir: worker
   recordRepoUrl: git@github.com:sugoi/heptacat-example-record.git
