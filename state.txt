@@ -3,5 +3,9 @@ two
 ni ten go
 three
 worker 0 four
+<<<<<<< HEAD
 worker 1 four point six
+=======
+worker 0 four point three
+>>>>>>> fb67443de3e72b40952a2c440785ca1e929226cd
 worker 1 five
