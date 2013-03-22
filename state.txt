@@ -7,7 +7,11 @@ worker 1 four point six
 worker 0 four point three
 itazura
 tazurazurai
+<<<<<<< HEAD
 nanimo
 kamo
 buchi
+=======
+kowasu
+>>>>>>> bd512779453687e6e4afb741e2bdc238a333d539
 worker 1 five
