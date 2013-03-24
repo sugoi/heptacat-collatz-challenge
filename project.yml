@@ -1,5 +1,6 @@
 workerNameInCharge: ''
 recordRepo:
+  taskProgressDir: progress
   workerStateDir: worker
   recordRepoUrl: git@github.com:sugoi/heptacat-example-record.git
   taskListDir: task
