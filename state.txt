@@ -1,6 +1,17 @@
 one
 henja
 two
+ni ten go
 monja
 invincible
 three
+worker 0 four
+worker 1 four point six
+worker 0 four point three
+itazura
+tazurazurai
+nanimo
+kamo
+buchi
+kowasu
+worker 1 five
