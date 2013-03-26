@@ -2,11 +2,11 @@ workerNameInCharge: ''
 recordRepo:
   workerStateDir: worker
   progressDir: progress
-  recordRepoUrl: git@github.com:sugoi/heptacat-example-record.git
+  recordRepoUrl: git@github.com:sugoi/heptacat-example-record.gi
   taskListDir: task
   resultDir: result
 subjectRepo:
-  startUpScript: start
+  startUpScript: ./start
   outputDir: output
   subjectRepoUrl: git@github.com:sugoi/heptacat-example-subject.git
 
