@@ -1,4 +1,5 @@
-heptacat-example-record
-=======================
+heptacat-collatz-challenge
+==========================
 
-An example of heptacat record repository at its initial state.
+Please anyone join for finding large collatz sequence!
+
